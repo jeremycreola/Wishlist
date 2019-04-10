@@ -1,0 +1,73 @@
+// Déclaration des variables et des mixin
+@mixin cover {
+  width: 200px;
+  height: 250px;
+}
+@mixin line {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  align-content: space-between;
+}
+// Fin des variables et des mixin
+
+body {
+  background: rgb(9, 102, 121);
+  background: linear-gradient(90deg, rgba(9, 102, 121, 1) 0%, rgba(5, 157, 188, 1) 25%, rgba(0, 212, 255, 1) 50%, rgba(0, 212, 255, 1) 75%, rgba(0, 212, 255, 1) 100%);
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  padding-right: 300px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+figure {
+  text-align: center;
+}
+
+header {
+  font-size: 36px;
+  margin-left: 550px;
+  margin-top: 250px;
+}
+
+.gif {
+  text-align: center;
+}
+
+.game {
+  @include cover;
+}
+
+.books {
+  @include cover;
+}
+
+.others {
+  @include cover;
+}
+
+.gamesLine {
+  @include line;
+}
+
+.booksLine {
+  @include line;
+}
+
+.othersLine {
+  @include line;
+}
+
+.dateMAJ {
+  text-align: center;
+}
