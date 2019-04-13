@@ -27,4 +27,4 @@ En cours de développement.
 
 - J'avais décidé de faire des tableaux pour présenter les objets que je souhaite, mais j'ai changé d'idée et je les présente désormais sous forme d'image avec lien cliquable ouvrant un nouvel onglet vers Amazon par exemple. J'ai pour l'instant la mise en page que je souhaite sur la partie jeux vidéos, je dois continuer sur les pages livres et autres.
 
-L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/
+- L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/
