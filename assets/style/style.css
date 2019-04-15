@@ -26,7 +26,7 @@ figure {
 header {
   font-size: 36px;
   margin-left: 550px;
-  margin-top: 250px; }
+  margin-top: 125px; }
 
 .gif {
   text-align: center; }
@@ -77,4 +77,6 @@ header {
   align-content: space-between; }
 
 .dateMAJ {
-  text-align: center; }
+  text-align: center;
+  font-weight: bold;
+  padding-top: 200px; }
