@@ -27,4 +27,4 @@ En cours de développement.
 
 - La structure principale du code est faite, et devrait rester ainsi à moins que je ne veuille changer le style. Il s'agit maintenant d'ajouter les articles que je souhaite. 
 
-- L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/
+- L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/ {:target="_blank" }
