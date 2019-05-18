@@ -8,7 +8,7 @@ Il est clair que ce site n'a rien de révolutionnaire et le plus gros de sa stru
 
 ## Etat 
 
-En cours de développement.
+Terminée.
 
 ## Technologies utilisées
 
@@ -25,6 +25,5 @@ En cours de développement.
 
 ## Avancement et résultat :
 
-- La structure principale du code est faite, et devrait rester ainsi à moins que je ne veuille changer le style. Il s'agit maintenant d'ajouter les articles que je souhaite. 
-
+- La structure du site est désormais terminée, les articles ajoutés, mes pages fonctionnelles. Il ne me reste plus metter à jour régulièrement ces listes.
 - L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/
