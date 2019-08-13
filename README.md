@@ -6,7 +6,7 @@ Cette wishlist est un projet purement personnel destiné à ma famille. L'idée 
 
 Il est clair que ce site n'a rien de révolutionnaire et le plus gros de sa structure a été réalisé en très peu de temps mais je ne recherchais pas à créer quelque chose d'ultra-sophistiqué mais simplement quelque chose de pratique pour ceux qui vont s'en servir.
 
-## Etat 
+## Etat
 
 Terminée.
 
@@ -25,5 +25,5 @@ Terminée.
 
 ## Avancement et résultat :
 
-- La structure du site est désormais terminée, les articles ajoutés, mes pages fonctionnelles. Il ne me reste plus metter à jour régulièrement ces listes.
+- La structure du site est désormais terminée, les articles ajoutés, mes pages fonctionnelles. Il ne me reste plus mettre à jour régulièrement ces listes.
 - L'avancement du projet est visible ici : https://jeremycreola.github.io/Wishlist/
